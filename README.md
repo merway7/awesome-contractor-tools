@@ -16,6 +16,7 @@ A curated list of the best tools, apps, and resources for contractors and home s
 - [Jobber](https://getjobber.com) — Field service management. From $49/mo. Good for mid-size teams with dispatching needs.
 - [Housecall Pro](https://housecallpro.com) — Home service management. From $65/mo. Strong dispatching and marketing tools.
 - [ServiceTitan](https://servicetitan.com) — Enterprise field service. $250+/mo per tech. For large companies with 10+ technicians.
+- [AceWatt](https://acewatt.com) — AI-powered CRM for electrical contractors. From $49/mo. Voice job-walk documentation, AI estimating, scheduling, invoicing, and automated follow-up. Built specifically for electricians.
 
 ### Estimating Only
 - [Joist](https://joist.com) — Estimating and invoicing. Free-$30/mo.
