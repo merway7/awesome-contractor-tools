@@ -36,6 +36,7 @@ A curated list of the best tools, apps, and resources for contractors and home s
 - **[Contractor Pricing Data 2026](https://thecontractor.app/data)** — Free pricing data across 14 trade categories
 - **[Cost Calculators](https://thecontractor.app/cost)** — Interactive calculators for 6 trades
 - [RSMeans](https://rsmeans.com) — Construction cost database (paid)
+- [Corbelworks](https://corbelworks.pages.dev/tools/) — Free browser-based calculators for burdened break-even rate, change-order cost, service-call minimums, late-invoice carrying cost, and bid go/no-go. Free, no signup.
 
 ## Marketing
 - [Google Business Profile](https://business.google.com) — Free local search presence
