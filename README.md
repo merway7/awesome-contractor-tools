@@ -31,6 +31,7 @@ A curated list of the best tools, apps, and resources for contractors and home s
 - [BuildFolio](https://build-folio.com) — Photo-to-quote AI
 - [QuoteIQ](https://myquoteiq.com) — AI estimator with location pricing
 - [Renoz](https://renoz.app) — AI quotes for renovation contractors
+- [Workforce Wave](https://www.workforcewave.com/) — AI voice receptionist for service businesses. 24/7 call answering, appointment booking, and lead capture.
 
 ## Pricing & Estimating
 - **[Contractor Pricing Data 2026](https://thecontractor.app/data)** — Free pricing data across 14 trade categories
