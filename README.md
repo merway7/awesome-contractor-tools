@@ -20,6 +20,7 @@ A curated list of the best tools, apps, and resources for contractors and home s
 ### Estimating Only
 - [Joist](https://joist.com) — Estimating and invoicing. Free-$30/mo.
 - [Contractor+](https://contractorplus.app) — Estimates and invoices. Free-$29/mo.
+- [Toolkit Labs Invoice](https://github.com/YtinuMoc/toolkitlabs-invoice) — Browser invoice/receipt PDF generator (no account). [Commercial license EUR 249](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=contractor-tools-v1): white-label, 6 templates (including trades), unlimited batch CLI. [Demo](https://ytinumoc.github.io/toolkitlabs-invoice/).
 
 ### Time Tracking
 - [Workyard](https://workyard.com) — Construction time tracking. $6-13/user/mo.
