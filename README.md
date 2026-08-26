@@ -36,6 +36,7 @@ A curated list of the best tools, apps, and resources for contractors and home s
 - **[Contractor Pricing Data 2026](https://thecontractor.app/data)** — Free pricing data across 14 trade categories
 - **[Cost Calculators](https://thecontractor.app/cost)** — Interactive calculators for 6 trades
 - [RSMeans](https://rsmeans.com) — Construction cost database (paid)
+- [SmartBizCalc — Contractor Calculators](https://smartbizcalc.com) — 50+ free pricing calculators for home service businesses: contractor markup, roofing job cost, HVAC pricing, lawn care pricing, GC bid, painting, plumbing, electrical, and more. No signup required.
 
 ## Marketing
 - [Google Business Profile](https://business.google.com) — Free local search presence
