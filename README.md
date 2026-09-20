@@ -18,6 +18,8 @@ A curated list of the best tools, apps, and resources for contractors and home s
 - [ServiceTitan](https://servicetitan.com) — Enterprise field service. $250+/mo per tech. For large companies with 10+ technicians.
 
 ### Estimating Only
+
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) — Free browser-only freelance billing and client-document tools: invoice, credit note, quote, rate calculator, and more; no signup.
 - [Joist](https://joist.com) — Estimating and invoicing. Free-$30/mo.
 - [Contractor+](https://contractorplus.app) — Estimates and invoices. Free-$29/mo.
 
