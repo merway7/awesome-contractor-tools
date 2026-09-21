@@ -47,6 +47,7 @@ A curated list of the best tools, apps, and resources for contractors and home s
 - **[Contractor Business Checklist](https://github.com/merway7/contractor-business-checklist)** — Free startup checklist
 - **[2026 Pricing Report](https://thecontractor.app/data)** — Industry pricing data
 - **[Software Comparison](https://thecontractor.app/compare)** — 11 side-by-side comparisons
+- [FieldServiceScout](https://www.fieldservicescout.com/) — Independent field-service software comparison for trade shops (Jobber, Housecall Pro, ServiceTitan peers)
 - **[Contractor Glossary](https://thecontractor.app/glossary)** — 31 terms defined
 
 ## Contributing
