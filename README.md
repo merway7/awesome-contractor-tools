@@ -20,6 +20,7 @@ A curated list of the best tools, apps, and resources for contractors and home s
 ### Estimating Only
 - [Joist](https://joist.com) — Estimating and invoicing. Free-$30/mo.
 - [Contractor+](https://contractorplus.app) — Estimates and invoices. Free-$29/mo.
+- [BidWright](https://github.com/braedonsaunders/bidwright) — Open-source construction estimating / takeoff (2D, 3D, PDF, BIM, point cloud).
 
 ### Time Tracking
 - [Workyard](https://workyard.com) — Construction time tracking. $6-13/user/mo.
