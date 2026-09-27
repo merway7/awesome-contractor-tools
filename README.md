@@ -39,6 +39,7 @@ A curated list of the best tools, apps, and resources for contractors and home s
 
 ## Marketing
 - [Google Business Profile](https://business.google.com) — Free local search presence
+- [More Good Reviews](https://moregoodreviews.com) — AI reputation and review manager for contractors and home service businesses. Automates email/SMS review asks, syncs Google & Facebook, AI replies, widgets; Agency white-label. Business ~$59/location/mo; Agency $99/mo. Demo: https://cal.com/moregoodreviews/demo
 - **[Contractor Blog & Guides](https://thecontractor.app/blog)** — 34+ free articles on marketing, pricing, growth
 - [Nextdoor Business](https://business.nextdoor.com) — Neighborhood recommendations
 - [Canva](https://canva.com) — Marketing materials and social media graphics
