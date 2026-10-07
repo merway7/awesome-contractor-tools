@@ -42,6 +42,7 @@ A curated list of the best tools, apps, and resources for contractors and home s
 - **[Contractor Blog & Guides](https://thecontractor.app/blog)** — 34+ free articles on marketing, pricing, growth
 - [Nextdoor Business](https://business.nextdoor.com) — Neighborhood recommendations
 - [Canva](https://canva.com) — Marketing materials and social media graphics
+- [AcquistareFollower.it Content Planner](https://acquistarefollower.it/resources/it/content-planner.xlsx) — Free Italian XLSX with 30 editable planning rows for social-media topics, formats, dates and result reviews.
 
 ## Resources
 - **[Contractor Business Checklist](https://github.com/merway7/contractor-business-checklist)** — Free startup checklist
